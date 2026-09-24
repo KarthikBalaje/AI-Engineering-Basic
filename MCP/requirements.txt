@@ -1,0 +1,23 @@
+# LangChain / LangGraph
+langchain
+langchain-openai
+langchain-openrouter
+langgraph
+
+# OpenAI / Environment
+openai
+python-dotenv
+
+# RAG / Embeddings
+langchain-huggingface
+sentence-transformers
+langchain-chroma
+langchain-community
+langchain-text-splitters
+pypdf
+
+# Security / Cryptography
+cryptography
+
+# MCP
+mcp

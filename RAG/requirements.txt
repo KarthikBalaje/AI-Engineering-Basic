@@ -1,0 +1,13 @@
+langchain 
+langchain-openrouter
+langchain_openai
+langgraph 
+python-dotenv
+openai
+langchain-huggingface 
+sentence-transformers
+langchain-chroma
+langchain_community
+langchain_text_splitters
+pypdf
+cryptography

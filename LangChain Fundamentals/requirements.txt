@@ -1,0 +1,6 @@
+langchain 
+langchain-openrouter
+langchain_openai
+langgraph 
+python-dotenv
+openai
